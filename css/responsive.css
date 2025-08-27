@@ -61,7 +61,7 @@
   .section-1 {
     padding: 220px 0;
     height: 100vh;
-    background: url("../assets/header/header") center/cover no-repeat;
+    background: url("../assets/header/header.png") center/cover no-repeat;
     color: var(--branco);
   }
 }
