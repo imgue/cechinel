@@ -56,3 +56,10 @@
   }
 
 }
+
+@media (max-width: 1920px) {
+    /* section-01 */
+  .section-1 {
+    background: url("../assets/header/header-mobile.png") top/cover no-repeat;
+  }
+}
