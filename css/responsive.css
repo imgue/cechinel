@@ -57,9 +57,11 @@
 
 }
 
-@media (max-width: 1920px) {
-    /* section-01 */
+@media (min-width: 1921px) {
   .section-1 {
-    background: url("../assets/header/header-mobile.png") top/cover no-repeat;
+    padding: 220px 0;
+    height: 100vh;
+    background: url("../assets/header/header") center/cover no-repeat;
+    color: var(--branco);
   }
 }
