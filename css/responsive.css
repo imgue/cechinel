@@ -49,7 +49,7 @@
 
   /* section-01 */
   .section-1 {
-    padding: 300px 0;
+    padding: 220px 0;
     height: 100vh;
     background: url("../assets/header/header-mobile.png") bottom/cover no-repeat;
     color: var(--branco);
