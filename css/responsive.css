@@ -1,0 +1,58 @@
+@media (max-width: 767px) {
+  body {
+    text-align: center !important;
+    overflow-x: hidden !important;
+  }
+
+  h1 {
+    font-size: 40px;
+    line-height: 50px;
+  }
+
+  h2 {
+    font-size: 28px;
+  }
+
+  h5 {
+    font-size: 18px;
+    line-height: 25px;
+  }
+
+  span {
+    font-size: 12px;
+    letter-spacing: 8px;
+  }
+
+  .navb {
+    display: none;
+  }
+
+  .logo-mobile img {
+    display: flex;
+    margin: auto;
+  }
+
+  .botao {
+    padding: 15px 20px;
+    margin: 0;
+    font-size: 16px;
+  }
+
+  .title {
+    font-size: 40px;
+    line-height: 45px;
+  }
+
+  .box-motivos {
+    text-align: left;
+  }
+
+  /* section-01 */
+  .section-1 {
+    padding: 300px 0;
+    height: 100vh;
+    background: url("../assets/header/header-mobile.png") bottom/cover no-repeat;
+    color: var(--branco);
+  }
+
+}
